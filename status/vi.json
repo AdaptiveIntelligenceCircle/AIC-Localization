@@ -1,0 +1,37 @@
+{
+  "language": "vi",
+  "updated": "2026-10-06",
+  "documents": [
+    {
+      "id": "vi-index",
+      "path": "locales/vi/README.md",
+      "status": "draft"
+    },
+    {
+      "id": "vi-what-is-aic",
+      "path": "locales/vi/01-what-is-aic.md",
+      "status": "draft"
+    },
+    {
+      "id": "vi-is-and-is-not",
+      "path": "locales/vi/02-is-and-is-not.md",
+      "status": "draft"
+    },
+    {
+      "id": "vi-principles-short",
+      "path": "locales/vi/principles-short.md",
+      "status": "draft"
+    },
+    {
+      "id": "vi-faq",
+      "path": "locales/vi/FAQ.md",
+      "status": "draft"
+    },
+    {
+      "id": "vi-glossary",
+      "path": "glossary/vi.md",
+      "status": "draft"
+    }
+  ],
+  "notes": "Initial scaffold. English remains canonical on technical conflict."
+}

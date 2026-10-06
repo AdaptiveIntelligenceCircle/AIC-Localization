@@ -57,7 +57,7 @@ AIC-Localization/
 
 | Document family | Priority | Notes |
 |-----------------|----------|-------|
-| Start-Here / beginner orientation | High | First contact for new contributors |
+| Beginners / beginner orientation | High | First contact for new contributors |
 | What AIC is / is-and-is-not | High | Boundary clarity |
 | Core principles (short) | High | Third Path, fail-closed, entity ≠ immunity |
 | FAQ (selected answers) | High | Status, token, mainnet, law |

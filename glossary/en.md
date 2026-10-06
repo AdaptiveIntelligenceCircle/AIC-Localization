@@ -6,7 +6,7 @@ These are orientation definitions, not exhaustive legal or formal specifications
 | Term | Short definition |
 |------|------------------|
 | **Adaptive Intelligence Circle (AIC)** | Independent, open, non-profit-oriented effort toward ethical coordination infrastructure and related public materials. |
-| **Third Path** | Orientation that refuses both pure state capture and pure commercial rule-power over the protocol. |
+| **Third Path** | Developing independently and transparently, while maintaining distance from power, based on purely commercial rules and major institutional frameworks. |
 | **Ethical Kernel** | Design layer that evaluates actions toward Allow / Deny / NeedHuman near authorization paths. |
 | **NeedHuman** | Decision outcome requiring human judgment before further automated progress; intended to be non-bypassable. |
 | **Fail-closed** | Default posture: when conditions for permission are not met, deny or restrict rather than allow. |

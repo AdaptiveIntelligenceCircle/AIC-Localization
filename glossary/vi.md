@@ -6,7 +6,7 @@
 | English | Tiếng Việt (đề xuất) | Ghi chú ngắn |
 |---------|----------------------|--------------|
 | **Adaptive Intelligence Circle (AIC)** | Adaptive Intelligence Circle (AIC) | Giữ tên riêng; có thể thêm “Vòng tròn Trí tuệ Thích nghi” khi cần giải thích. |
-| **Third Path** | Con đường thứ ba | Từ chối cả nắm bắt nhà nước thuần túy và quyền lực quy tắc thương mại thuần túy. |
+| **Third Path** | Con đường thứ ba | Phát triển độc lập, minh bạch và giữ khoảng cách với quyền lực quy tắc thương mại thuần túy và thể chế lớn. |
 | **Ethical Kernel** | Nhân đạo đức / Ethical Kernel | Có thể giữ “Ethical Kernel” + giải thích “lớp đánh giá Allow/Deny/NeedHuman”. |
 | **NeedHuman** | NeedHuman (cần con người) | Kết quả yêu cầu phán đoán của con người; không được bỏ qua. |
 | **Fail-closed** | Fail-closed (mặc định từ chối) | Khi không đủ điều kiện cho phép → từ chối hoặc hạn chế, không mặc định cho phép. |

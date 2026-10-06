@@ -12,4 +12,4 @@ Full documents live in their upstream repositories (AIC-Start-Here, MyVision, AI
 | `principles-short.md` | Compact principles for alignment across languages |
 | (add more excerpts as needed) | |
 
-For complete beginner material, see the **AIC-Start-Here** (or AIC-Beginners) repository and the organization website.
+For complete beginner material, see the **AIC-Beginners** repository and the organization website.

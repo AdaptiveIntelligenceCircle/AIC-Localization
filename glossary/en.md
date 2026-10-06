@@ -20,6 +20,6 @@ These are orientation definitions, not exhaustive legal or formal specifications
 | **Parallel TestNet** | Experimental networks that may run in parallel; isolation and default-deny bridging are design concerns. |
 | **SSI** | Self-sovereign identity concepts (bind / revoke / rotate) as used in AIC designs — abstract in formal models. |
 | **Public Digital Infrastructure (PDI)** | Orientation toward inspectable, capture-resistant digital layers serving broad coordination interests. |
-| **Start-Here** | Beginner orientation path for new contributors. |
+| **Beginners** | Beginner orientation path for new contributors. |
 
 When translating, keep the English term on first use if the local language rendering is not yet stable, then use the glossary equivalent.

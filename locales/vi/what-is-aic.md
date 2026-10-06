@@ -16,4 +16,4 @@ AIC nhấn mạnh:
 
 AIC **không** phải lời hứa mainnet, không phải chứng nhận tuân thủ quy định, và không phải lá chắn pháp lý.
 
-Để tìm hiểu sâu hơn (tiếng Anh chuẩn): xem AIC-Start-Here, MyVision, whitepaper và các repository kỹ thuật (TestNet, Formal, …).
+Để tìm hiểu sâu hơn (tiếng Anh chuẩn): xem AIC-Beginners, MyVision, whitepaper và các repository kỹ thuật (TestNet, Formal, …).

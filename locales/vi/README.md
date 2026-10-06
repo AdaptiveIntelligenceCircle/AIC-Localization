@@ -20,4 +20,4 @@ Tài liệu định hướng AIC bằng tiếng Việt.
 
 Thuật ngữ: xem `glossary/vi.md` ở gốc repo.
 
-Nguồn đầy đủ hơn: các repository AIC-Start-Here, MyVision, website, v.v.
+Nguồn đầy đủ hơn: các repository AIC-Beginners, MyVision, website, v.v.

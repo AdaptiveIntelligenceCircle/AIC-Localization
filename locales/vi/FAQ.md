@@ -29,7 +29,7 @@ Không khi có xung đột nghĩa kỹ thuật hoặc quy phạm. Tiếng Anh l�
 
 1. Đọc `01-what-is-aic.md` và `02-is-and-is-not.md` (vi).
 2. Đọc nguyên tắc ngắn.
-3. Sang repo **AIC-Start-Here** (hoặc tương đương) và các tài liệu tiếng Anh chuẩn khi đi sâu kỹ thuật.
+3. Sang repo **AIC-Beginners** (hoặc tương đương) và các tài liệu tiếng Anh chuẩn khi đi sâu kỹ thuật.
 4. Giữ under-claim khi viết hay nói về dự án.
 
 ### Ai chịu trách nhiệm nếu tôi triển khai nhầm?
